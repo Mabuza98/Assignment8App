@@ -10,7 +10,7 @@
 
         <Label Text= "{Binding DemoText}" />
         <Button Text="MMVM is cool!" Command="{Binding TestButtonCommand}" />
-        <Label Text= "{Binding DemoText}" />
+        
         
 
     </StackLayout>
